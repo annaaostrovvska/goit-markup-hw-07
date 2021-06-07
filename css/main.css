@@ -1,3 +1,10 @@
+.container {
+  width: 1200px;
+  padding-left: 15px;
+  padding-right: 15px;
+  margin: 0px auto;
+}
+
 *,
 ::before,
 ::after {
@@ -43,13 +50,6 @@ ul {
 
 body {
   font-family: 'Roboto', sans-serif;
-}
-
-.container {
-  width: 1200px;
-  padding-left: 15px;
-  padding-right: 15px;
-  margin: 0px auto;
 }
 
 .header {
